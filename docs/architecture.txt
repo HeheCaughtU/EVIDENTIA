@@ -1,0 +1,4 @@
+The tool is a unified digital forensic evidence preservation system.
+A central controller manages incidents and triggers evidence collectors.
+Each collector gathers a specific type of forensic artifact.
+All evidence is stored in a secure, immutable evidence vault with integrity verification.

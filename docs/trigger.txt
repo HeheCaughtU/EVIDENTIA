@@ -1,0 +1,5 @@
+Initial trigger method:
+Manual command-line execution by forensic administrator.
+
+Future scope:
+Integration with SIEM tools such as Wazuh and Splunk.

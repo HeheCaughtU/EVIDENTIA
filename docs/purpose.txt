@@ -1,0 +1,1 @@
+“This tool automatically collects and securely preserves digital evidence after a cyber incident and prevents any post-incident tampering.”

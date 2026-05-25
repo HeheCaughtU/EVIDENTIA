@@ -1,0 +1,3 @@
+Each execution of the tool creates a new Incident ID.
+All evidence is collected and stored under the same incident.
+Evidence is grouped and preserved per incident to avoid mixing cases.

@@ -1,0 +1,13 @@
+IN SCOPE (v1)
+
+Windows OS only
+
+Manual trigger (CLI)
+
+Evidence collection
+
+Secure vault
+
+Hashing & custody
+
+CLI interface

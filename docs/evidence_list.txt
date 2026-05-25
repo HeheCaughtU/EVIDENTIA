@@ -1,0 +1,8 @@
+- RAM dump
+- Windows Event Logs
+- Running processes
+- User activity
+- Registry snapshot
+- Network connections
+- File system metadata
+- Timeline data
